@@ -18,4 +18,4 @@ Cette opération de comptage se fait manuellement de la part d’un technicien ;
 + L’oubli du report du résultat.
 
 
-D’ici vient l’idée de notre projet ; il s’agit de faire appel à un modèle de l’intelligence artificielle pour juger la conformité d’un échantillon à partir d’une image de la boîte de pétri, montrant des colonies bactériennes.
+D’ici vient l’idée de notre projet ; il s’agit de faire appel à un modèle de l’pprentissage profond pour juger la conformité d’un échantillon à partir d’une image de la boîte de pétri, montrant des colonies bactériennes.
